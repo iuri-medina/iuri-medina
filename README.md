@@ -1,5 +1,5 @@
 ### Olá, sou o Iuri!
-- 🌱 Estudando Front-end
+- 🌱 Estudando React
 - 📫 Entre em contato: iurimedina@gmail.com
 <div align="center">
   <a href="https://github.com/iuri-medina">
