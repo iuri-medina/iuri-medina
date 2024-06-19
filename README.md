@@ -1,7 +1,7 @@
 ### Olá, sou o Iuri!
 - 🌱 Estudando Java
 - 📫 Entre em contato: iurimedina@gmail.com
-<div align="center">
+<div align="left">
   <a href="https://github.com/iuri-medina">
   <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iuri-medina&layout=compact&langs_count=7&theme=algolia"/>
 </div>
